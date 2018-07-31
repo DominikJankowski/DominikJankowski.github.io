@@ -1,1 +1,0 @@
-Projek gry tworzony podczas kursu dostępnego na stronie https://www.udemy.com/the-web-developer-bootcamp/ 
